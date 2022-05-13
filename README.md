@@ -1,4 +1,4 @@
-## Unit 19 Homework: Cryptocurrency Wallet
+Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/fintech%20finder.gif)
 
