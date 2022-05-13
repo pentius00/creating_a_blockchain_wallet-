@@ -1,4 +1,4 @@
-Cryptocurrency Wallet
+fintech finder aplication
 
 ![An image shows a wallet with bitcoin.](Images/fintech%20finder.gif)
 
